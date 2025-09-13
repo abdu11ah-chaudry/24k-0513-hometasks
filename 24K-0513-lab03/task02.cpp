@@ -135,7 +135,7 @@ int main()
     }
 
     catalog.removeBook("Die");
-    cout << "Catalog after removing '1984':" << endl;
+    cout << "Catalog after removing 'Die':" << endl;
     catalog.displayCatalog();
 
     return 0;
